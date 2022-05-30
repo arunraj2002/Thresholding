@@ -28,6 +28,8 @@ Display the results.
 
 ## PROGRAM:
 ```python
+# Developed By   : R ARUNRAJ
+# Register Number: 212220230004
 # Load the necessary packages
 import cv2
 import numpy as np
