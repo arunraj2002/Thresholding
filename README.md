@@ -27,9 +27,9 @@ Use Otsu's method to segment the image.
 Display the results.
 
 ## PROGRAM:
+### Developed By   : R ARUNRAJ
+### Register Number: 212220230004
 ```python
-# Developed By   : R ARUNRAJ
-# Register Number: 212220230004
 # Load the necessary packages
 import cv2
 import numpy as np
